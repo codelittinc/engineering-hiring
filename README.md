@@ -6,11 +6,11 @@ For the interviewer the goal of any job interview is to answer the question:
 
 _Is this person that I am talking to a good fit for the team?_
 
-To evaluate the candidate's skills, to gauge their knowledge and to know what drives them is not the goal, but just ways of achieving it.
+Evaluating the candidate's skills, knowledge and what drives them is not the goal. Instead, we need to closely evaluate how the candidate approaches achieving their goals.
 
-As an interviewer, you are looking for someone that will work side by side with you for the next foreseeable future. This person is going to be the one that you will trust to make decisions for you, ones that will impact your life in a lot of different ways.
+As an interviewer, you are looking for someone that will work side by side with you for the foreseeable future. This person is going to be the one that you will trust to make decisions for you, ones that will impact your life in a lot of different ways.
 
-If you have ever worked in a team, you know that when one person takes a bad decision, the entire team suffers. So, based on your requirements you need to assure that the person you are talking to is the one you want to have your back.
+If you have ever worked in a team, you know that when one person makes a bad decision, the entire team suffers. So, based on your requirements you need to assure that the person you are talking to is the one you want to have your back.
 
 ## Hiring process
 
@@ -21,11 +21,11 @@ The Engineering Department hiring process is composed of four phases:
 3. Knowledge verification interview
 4. General considerations
 
-Our goal is ideally to have the four steps completed in two weeks.
+Our goal is to have the four steps completed in two weeks, in an ideal scenario.
 
 ### 1. Meeting interview
 
-This is the first interview, and it doesn't need to be made by an engineer, it can be made by an experienced member of the HR team. During this phase we want to know the person better, we want to see if they are a team player, if they prefer books or movies, if they are more like an engineer or a leader. If they likes to dance or to fight (why not both?). This is a culture fit interview, and you are trying to discover if this is a person that you would like to work with.
+This is the first interview, and it doesn't need to be conducted by an engineer, it can be run by an experienced member of the HR team. During this phase we want to learn more about the person, we want to see if they're a team player, if they prefer books or movies, if they're more like an engineer or a leader. If they like to dance or to fight (why not both?). This is a culture fit interview, and you are trying to discover if this is a person that you would like to work with.
 
 Since this is the first interview remember that you are being interviewed as well. The person on the other side wants to know if Codelitt is the place they want to spend the next days of their life.
 
@@ -47,37 +47,37 @@ Since this is the first interview remember that you are being interviewed as wel
 3. How we communicate
 4. How many we are
 5. What kind of projects do we work with?
-6. How does a general day look like?
-7. What do you love at Codelitt
+6. What does a general day look like?
+7. What do you love about Codelitt
 8. How long does the hiring process take?
 
 #### Questions to make
 
-The goal of the interview is not only to know about the technical skills of a candidate but also to get to know them under other aspects.
+The goal of the interview is not only to learn about the technical skills of a candidate but also to get to know them in a different light.
 
-To do that, you can ask them specific questions. They are open ones, there is just no right answer, but with them, you can have a bare idea of how they behave in a team.
+To do that, you can ask them specific questions. They are open ones, there is just no right answer, but with them, you can have a better idea of how they behave in a team.
 
 1. When did you start programming and why?
 2. What was the last book you read? What do you like to learn?
 3. What was the latest technology you learned and when?
 4. What was your biggest challenge and how did you overcome it?
-5. Did you ever work on a remote team?
+5. Have you ever worked on a remote team?
 6. If you had to choose between having a project with only you or working with a group, which one would you prefer?
-7. Did you ever have a mentor? What did you learn from him or her that you would like to share?
+7. Have you ever had a mentor? What did you learn from him or her that you would like to share?
 8. Have you ever been someone's mentor? What is the most critical topic you ever taught?
 9. What do you think about receiving feedback?
 
 #### Red flags
 
-Depending on how the candidate answers to the questions above, these are some points to worry about.
+Depending on how the candidate answers the questions above, the following are some potential concerns to look out for.
 
 1. Started programming too recently, but bear in mind that it is relative with the expectations for the position. You can't have a senior with only two years of experience, but you can have a junior with ten years.
 2. Can't remember the last book.
 3. English is not fluent.
 4. Never faced a big challenge or can't explain how they solved it.
-5. Never worked with remote teams. You want to pay some attention in how they communicate. Is it easier to understand?
-6. If you are looking for a leadership position, you will want someone who would prefer to work with a team.
-7. If you are looking for a leadership position, you will want someone who mentored before.
+5. Never worked with remote teams. You want to pay some attention in how they communicate. Are they easy to understand?
+6. If you are looking for a leadership position, you will want someone who would prefers to work with a team.
+7. If you are looking for a leadership position, you will want someone who has been a mentor in the past.
 8. Doesn't like receiving feedback.
 9. The last technology they learned was too long ago.
 
@@ -97,7 +97,7 @@ At this point, you believe that the candidate is someone you would like to work 
 
 #### Choosing the exercise
 
-Based on the stack of the position you are interviewing for, choose an exercise based on this list and send it to the candidate. If an exercise for the stack in case is not there, please create one and ask your teammates to review it before sending.
+Based on the stack of the position you are interviewing for, choose an exercise based on this list and send it to the candidate. If an exercise for the stack is not there, please create one and ask your teammates to review it before sending.
 
 **TODO: add the exercises list**
 
@@ -107,7 +107,7 @@ Based on the stack of the position you are interviewing for, choose an exercise 
 2. Commit the exercise in the README.md of the project
 3. Share with the candidate's email
 
-Usually, we give four days for the person to submit the exercise. Bear in mind that the candidate may already have another job and already has its schedules. Explain them that they have four days to finish it, but if for any reason it is not enough then the candidate should send you an email just to let you know that you should expect a solution by when.
+Usually, we give four days for the person to submit the exercise. Bear in mind that the candidate may already have another job. Explain to them that they have four days to finish it, but if for any reason it is not enough then the candidate should send you an email just to let you know that you should expect a solution by when.
 
 #### Action items
 
@@ -121,15 +121,15 @@ If you received the exercise, you need to review it and gather another engineer 
 
 ### 3. Knowledge verification interview
 
-The exercise gave you some insight of what kind of decisions they take, now it is time to confirm what they may know that is interesting to you. Before you jump into this interview, please grab the stack's specific questions and the generic ones. You will find a list with the ones we have >>>>here<<<, if you can't find for the stack you need, please talk to your manager.
+The exercise gave you some insight of what kind of decisions they take, now it is time to confirm what they may know that is interesting to you. Before you jump into this interview, please grab the stack's specific questions and the generic ones. You will find a list with the ones we have >>>>here<<<, if you can't find exercises for the stack you need, please talk to your manager.
 
 #### Interview flow example
 
 1. _Hey Diogo, thanks for taking the time to complete this exercise_
 2. Explain the purpose of this interview: _the goal of this interview is to go through what you did on your exercise and to go through a few technical questions._
-3. Explain in which step we are: _this is the third of four steps hiring process, we deciding to move forward with your application, the next step will be an interview with our COO to discuss a few details of the position._
+3. Explain which step we are in: _this is the third of four steps hiring process, we deciding to move forward with your application, the next step will be an interview with our COO to discuss a few details of the position._
 4. Ask if he or she has any questions and answer them
-5. Start the project question
+5. Start the project questions
 6. Ask if he or she has any questions and answer them
 7. Start the stack questions
 8. Ask if he or she has any questions and answer them
