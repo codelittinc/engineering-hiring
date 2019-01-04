@@ -27,8 +27,6 @@ Our goal is to have the four steps completed in two weeks, in an ideal scenario.
 
 This is the first interview, and it doesn't need to be conducted by an engineer, it can be run by an experienced member of the HR team. During this phase we want to learn more about the person, we want to see if they're a team player, if they prefer books or movies, if they're more like an engineer or a leader. If they like to dance or to fight (why not both?). This is a culture fit interview, and you are trying to discover if this is a person that you would like to work with.
 
-Since this is the first interview remember that you are being interviewed as well. The person on the other side wants to know if Codelitt is the place they want to spend the next days of their life.
-
 ### Interview flow example
 
 1. Introduce yourself: _Hi, my name is Peter, and I'm an engineer at Codelitt. I am responsible for this first interview with you._
@@ -42,14 +40,24 @@ Since this is the first interview remember that you are being interviewed as wel
 
 ### Questions you need to be prepared to answer
 
-1. What we do
-2. Who we are
-3. How we communicate
-4. How many we are
-5. What kind of projects do we work with?
+Since this is the first interview remember that you are being interviewed as well. The person on the other side wants to know if Codelitt is the place they want to spend the next days of their life.
+
+Before getting started, **be sure to have all the information related to the candidate and to the position they applied for**. Which is the project they will work on? These are some questions they could ask.
+
+1. What is Codelitt and what it does?
+3. How do you communicate?
+4. How many are you?
+5. What kind of projects does Codelitt work with?
 6. What does a general day look like?
-7. What do you love about Codelitt
+7. What do you love about Codelitt?
 8. How long does the hiring process take?
+9. Can you tell me more about the project I am supposed to work on?
+
+#### What if a candidate asks me something I don't know?
+
+There might be a rare case in which you are not prepared to answer any kind of question. For example, you might have not enough information regarding the project the candidate is supposed to jump in. The goal in dealing with this situation is to answer them without giving the feel of a lacking organization. Never say _I don't know_!
+
+In most of the cases, you can take advantage of the fact that this is the first step, and answer with something like _unfortunately at this point I can’t provide you such information_. If you think their question requires a research to be properly answered, you can say: _we’re going to discuss it internally and let you know via email_.
 
 ### Questions to make
 
@@ -66,6 +74,8 @@ To do that, you can ask them specific questions. They are open ones, there is ju
 7. Have you ever had a mentor? What did you learn from him or her that you would like to share?
 8. Have you ever been someone's mentor? What is the most critical topic you ever taught?
 9. What do you think about receiving feedback?
+
+Bear in mind that you might want to consider the aptitude a candidate has to grow. Questions like _“What was the latest technology you learned and when?“_ or _“Do you have or had personal projects? Or collaborate in open source ones?“_ can give you an idea about the effort he or she put in the professional life. Depending on the reason why you’re hiring, it might be worth picking someone with poor experience but good aptitude to learn, rather than an experienced developer who is still using Java since they completed their degree.
 
 ### Red flags
 
