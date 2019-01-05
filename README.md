@@ -6,7 +6,7 @@ For the interviewer the goal of any job interview is to answer the question:
 
 _Is this person that I am talking to a good fit for the team?_
 
-Evaluating the candidate's skills, knowledge and what drives them is not the goal. Instead, we need to closely evaluate how the candidate approaches achieving their goals.
+Evaluating the candidate's skills, knowledge and what drives them is not the goal. Instead, we need to determine how the candidate approaches achieving their goals closely.
 
 As an interviewer, you are looking for someone that will work side by side with you for the foreseeable future. This person is going to be the one that you will trust to make decisions for you, ones that will impact your life in a lot of different ways.
 
@@ -23,9 +23,25 @@ The Engineering Department hiring process is composed of four phases:
 
 Our goal is to have the four steps completed in two weeks, in an ideal scenario.
 
+## How to prepare yourself for the interview
+
+Before the first interview make sure that:
+
+1. You know for which position you're interviewing for, this is important because it should guide the level of questions and expectations you should have towards the candidate.
+2.  The candidate fits into the position you're interviewing for. If you are looking for a senior and the candidate only has two years of experience you should recognize it as a huge red flag.
+3.  You have the questions for the stack requested. You can check that >>HERE
+<<<
+
+Things to have in mind:
+
+1. The candidate is under huge pressure, to be interviewed usually a stressful experience, mainly because most people don't like to be evaluated by someone they just meet, thus try to be nice.
+2. Something I noticed over the years is that most people are more comfortable speaking with me when my webcam was turned on. It happens because the person on the other side could see how I was reacting and they could make sure they were speaking with a human, and not with a picture; thus I highly recommend you to have the interviews with your webcam on.
+  2.1. If you have your camera on you should make sure that you are well dressed and that the candidate has a clear view. If you were being interviewed by a guy that was apparently in a kitchen, I doubt you would be able to take him seriously.
+2.2. When you ask something don't let the candidate speaking over and over without making a noise, you don't need to interrupt him to send signals that you are understanding and following. Sometimes a `hum` is enough.
+
 ## 1. Meeting interview
 
-This is the first interview, and it doesn't need to be conducted by an engineer, it can be run by an experienced member of the HR team. During this phase we want to learn more about the person, we want to see if they're a team player, if they prefer books or movies, if they're more like an engineer or a leader. If they like to dance or to fight (why not both?). This is a culture fit interview, and you are trying to discover if this is a person that you would like to work with.
+This is the first interview, and it doesn't need to be conducted by an engineer, it can be run by an experienced member of the HR team. During this phase we want to learn more about the person, we want to see if they're a team player, if they prefer books or movies, if they're more like an engineer or a leader, If they like to dance or to fight (why not both?). This is a culture fit interview, and you are trying to discover if this is a person that you would like to work with.
 
 ### Interview flow example
 
@@ -55,9 +71,9 @@ Before getting started, **be sure to have all the information related to the can
 
 #### What if a candidate asks me something I don't know?
 
-There might be a rare case in which you are not prepared to answer any kind of question. For example, you might have not enough information regarding the project the candidate is supposed to jump in. The goal in dealing with this situation is to answer them without giving the feel of a lacking organization. Never say _I don't know_!
+There might be a rare case in which you are not prepared to answer any question. For example, you might have not enough information regarding the project the candidate is supposed to jump in. The goal in dealing with this situation is to answer them without giving the feel of a lacking organization. Never say _I don't know_!
 
-In most of the cases, you can take advantage of the fact that this is the first step, and answer with something like _unfortunately at this point I can’t provide you such information_. If you think their question requires a research to be properly answered, you can say: _we’re going to discuss it internally and let you know via email_.
+In most of the cases, you can take advantage of the fact that this is the first step, and answer with something like _unfortunately at this point I can’t provide you such information_. If you think their question requires research to be responded appropriately, you can say: _we’re going to discuss it internally and let you know via email_.
 
 ### Questions to make
 
@@ -85,8 +101,8 @@ Depending on how the candidate answers the questions above, the following are so
 2. Can't remember the last book.
 3. English is not fluent.
 4. Never faced a big challenge or can't explain how they solved it.
-5. Never worked with remote teams. You want to pay some attention in how they communicate. Are they easy to understand?
-6. If you are looking for a leadership position, you will want someone who would prefers to work with a team.
+5. Never worked with remote teams. You want to pay some attention to how they communicate. Are they easy to understand?
+6. If you are looking for a leadership position, you will want someone who would prefer to work with a team.
 7. If you are looking for a leadership position, you will want someone who has been a mentor in the past.
 8. Doesn't like receiving feedback.
 9. The last technology they learned was too long ago. This also depends on the technology, but it's mainly to see if the candidate likes to be up to date with the development world, or if it's just something they study passively.
