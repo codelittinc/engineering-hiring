@@ -4,17 +4,10 @@ This document contains questions which apply to any technology. You are supposed
 
 ## Index
 
-General questions
-Questions which every software engineer must be able to answer
-
-Full-stack
-For full-stack engineer positions
-
-Back-end
-Full-stack or back-end engineer positions
-
-Front-end
-Full-stack or front-end engineer positions
+- [General questions](https://github.com/codelittinc/engineering-hiring/blob/add-questions/master/_Stack-Agnostic.md#general-questions): questions which every software engineer must be able to answer
+- [Full-stack](https://github.com/codelittinc/engineering-hiring/blob/add-questions/master/_Stack-Agnostic.md#full-stack): for full-stack engineer positions
+- [Back-end](https://github.com/codelittinc/engineering-hiring/blob/add-questions/master/_Stack-Agnostic.md#back-end): for full-stack or back-end engineer positions
+- [Front-end](https://github.com/codelittinc/engineering-hiring/blob/add-questions/master/_Stack-Agnostic.md#front-end): for full-stack or front-end engineer positions
 
 # General questions
 
@@ -25,6 +18,8 @@ These are questions which every software engineer must be able to answer.
 - Are you familiar with **Docker**?
 - What is the TDD methodology?
 - What is the Continuous Integration?
+- What is the **MVC** pattern?
+- What is the difference between a relational and a non relational database?
 
 # Full-stack
 
@@ -62,19 +57,12 @@ The following questions can be asked to candidates who are applying for either a
 
 ## Basic
 
-**How do you prevent SQL injections when dealing with a relational database?**
-
-> The right way to prevent SQL injections is to use a db driver which supports parameters binding, or to sanitize the user input (less secure).
-
-**What is the difference between POST and PUT methods?**
-
-> In RESTful services, POST is used to create a resource, while PUT is used to update it.
+- **How do you prevent SQL injections when dealing with a relational database?**
+- **What is the difference between POST and PUT methods?**
 
 ## Advanced
 
-**What is the difference between PUT and PATCH methods?**
-
-> Even though PATCH is not used as widely as PUT, both methods are used to update a resource. When updating a resource with a PUT request, you have to send the full payload as the request body. With PATCH, you only need to send the parameters which you want to update.
+- **What is the difference between PUT and PATCH methods?**
 
 # Front-End
 
@@ -82,14 +70,12 @@ The following questions can be asked to candidates who are applying for either a
 
 ## Basic
 
-**What is the difference between a container and a presentational component?**
-
-> The containers (aka stateful or smart) components are concerned on _how things work_. Most of the times they are pages, or components which deal with data. They pass data down to their children components.
-
-> The presentational (aka stateless or dumb) components are concerned on _how things look_.
+- **What is a SPA?**
+- **What is Webpack and what are the benefits of using it?**
+- **What is the difference between a container and a presentational component?**
 
 ## Advanced
 
-**Why is immutability important?**
-
-> Immutability is important to increase predictability and performance. Predictability, because mutation might create unexpected side effects. And performance, because it avoids tracking every state change. While creating new objects every time might sound inefficient, it is actually very efficient as the garbage collector takes care of cleaning not used references.
+- **Why is immutability important?**
+- **What is lazy loading for components and how does it work?**
+- **What the Webpack's autoprefixer plugin does?**
