@@ -28,9 +28,8 @@ Our goal is to have the four steps completed in two weeks, in an ideal scenario.
 Before the first interview make sure that:
 
 1. You know for which position you're interviewing for, this is important because it should guide the level of questions and expectations you should have towards the candidate.
-2.  The candidate fits into the position you're interviewing for. If you are looking for a senior and the candidate only has two years of experience you should recognize it as a huge red flag.
-3.  You have the questions for the stack requested. You can check that >>HERE
-<<<
+2. The candidate fits into the position you're interviewing for. If you are looking for a senior and the candidate only has two years of experience you should recognize it as a huge red flag.
+3. You have the [questions for the stack requested](https://github.com/codelittinc/engineering-hiring/tree/master/questions).
 
 Things to have in mind:
 
