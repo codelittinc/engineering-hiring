@@ -34,10 +34,10 @@ Before the first interview make sure that:
 
 Things to have in mind:
 
-1. The candidate is under huge pressure, to be interviewed usually a stressful experience, mainly because most people don't like to be evaluated by someone they just meet, thus try to be nice.
-2. Something I noticed over the years is that most people are more comfortable speaking with me when my webcam was turned on. It happens because the person on the other side could see how I was reacting and they could make sure they were speaking with a human, and not with a picture; thus I highly recommend you to have the interviews with your webcam on.
-  2.1. If you have your camera on you should make sure that you are well dressed and that the candidate has a clear view. If you were being interviewed by a guy that was apparently in a kitchen, I doubt you would be able to take him seriously.
-2.2. When you ask something don't let the candidate speaking over and over without making a noise, you don't need to interrupt him to send signals that you are understanding and following. Sometimes a `hum` is enough.
+1. The candidate is under huge pressure, to be interviewed is usually a stressful experience, mainly because most people don't like to be evaluated by someone they just meet, thus try to be nice.
+2. Most candidates are more comfortable speaking with you when your webcam is turned on. It happens because the person on the other side can see how you react and they can make sure they are speaking with a human, and not with a picture; thus is highly recommended to have the interviews with your webcam tuned on.
+    1. If you have your camera turned on you should make sure that you are well dressed and that the candidate has a clear view. If you were being interviewed by a guy that was apparently in a kitchen, I doubt you would be able to take him seriously.
+    2. When you ask something don't let the candidate speak over and over without making a noise, you don't need to interrupt him to send signals that you are understanding and following. Sometimes a `hum` is enough.
 
 ## 1. Meeting interview
 
@@ -57,8 +57,6 @@ This is the first interview, and it doesn't need to be conducted by an engineer,
 ### Questions you need to be prepared to answer
 
 Since this is the first interview remember that you are being interviewed as well. The person on the other side wants to know if Codelitt is the place they want to spend the next days of their life.
-
-Before getting started, **be sure to have all the information related to the candidate and to the position they applied for**. Which is the project they will work on? These are some questions they could ask.
 
 1. What is Codelitt and what it does?
 3. How do you communicate?
