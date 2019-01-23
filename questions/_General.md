@@ -14,6 +14,10 @@ This document contains questions which apply to any technology. You are supposed
 
 If the candidate is applying for a **full-stack engineer** position, you must ask them one open question. It requires them to pick the potential technology which they hold to be the best for the given purpose.
 
+## Advanced
+
+- How much do you know about GraphQL?
+
 ### 1. List of people app
 
 ##### Question:

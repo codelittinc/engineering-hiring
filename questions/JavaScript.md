@@ -4,7 +4,6 @@ This document contains questions for **JavaScript** developers. They are organiz
 
 ## Basic
 
-- **What is NPM?**
 - **What is an arrow function?**
 - **What is the difference between `let`, `const` and `var`?**
 - **What is the ES6 destructuring assignment?**
