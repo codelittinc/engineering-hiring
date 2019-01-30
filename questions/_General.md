@@ -14,7 +14,9 @@ This document contains questions which apply to any technology. You are supposed
 - What is your favorite language? Would you use it in every project?
 - What is your favorite app? How would you improve it?
 - What steps would you take if you were working on a piece of code that you could not understand?
-- What criterias are important for you when reviewing code?
+- What is the difference inheritance and composition? Which one is more convenient?
+- What design patterns do you know?
+- When was the last time you used a design pattern? 
 
 ## Open question
 
