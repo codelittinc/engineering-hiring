@@ -9,6 +9,12 @@ This document contains questions which apply to any technology. You are supposed
 - What is the Continuous Integration?
 - What is the **MVC** pattern?
 - What is the difference between a relational and a non relational database?
+- What is the last book you have read about software engineering?
+- What is the biggest mistake you have made when working on a project? How did you address it?
+- What is your favorite language? Would you use it in every project?
+- What is your favorite app? How would you improve it?
+- What steps would you take if you were working on a piece of code that you could not understand?
+- What criterias are important for you when reviewing code?
 
 ## Open question
 
