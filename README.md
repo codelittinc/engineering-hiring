@@ -122,7 +122,9 @@ At this point, you believe that the candidate is someone you would like to work 
 
 Based on the stack of the position you are interviewing for, choose an exercise based on this list and send it to the candidate. If an exercise for the stack is not there, please create one and ask your teammates to review it before sending.
 
-**TODO: add the exercises list**
+- [React/Redux](https://gitlab.com/codelittinc/vue-vuex-interview-project)
+- [Vue/Vuex](https://gitlab.com/codelittinc/react-redux-interview-project)
+- [Golang](https://gitlab.com/codelittinc/golang-interview-project)
 
 ### Sharing the exercise
 
@@ -144,7 +146,7 @@ If you received the exercise, you need to review it and gather another engineer 
 
 ## 3. Knowledge verification interview
 
-The exercise gave you some insight of what kind of decisions they take, now it is time to confirm what they may know that is interesting to you. Before you jump into this interview, please grab the stack's specific questions and the generic ones. You will find a list with the ones we have >>>>here<<<, if you can't find exercises for the stack you need, please talk to your manager.
+The exercise gave you some insight of what kind of decisions they take, now it is time to confirm what they may know that is interesting to you. Before you jump into this interview, please grab the stack's specific questions and the generic ones. You will find a list with the ones we have [here](https://github.com/codelittinc/engineering-hiring/tree/master/questions), if you can't find exercises for the stack you need, please talk to your manager.
 
 ### Interview flow example
 
