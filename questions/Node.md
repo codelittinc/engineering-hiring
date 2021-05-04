@@ -1,6 +1,6 @@
 # Node
 
-This document contains questions for **Node.js** developers.
+This document contains questions for **Node.js** developers. When interviewing pick your preferred questions and make sure you know the answer for those so you are able to evaluate the candidaten's answer.
 
 ## Basic
 
@@ -14,6 +14,14 @@ This document contains questions for **Node.js** developers.
 - **What is REPL and when to use it?**
 - **Why is Node.js single-threaded and what is the Event Loop?**
 - **At what point would you spawn another process in Node?**
+- **What is === operator? what is the Difference between "==" and "==="?**
+- **Does JavaScript support automatic type conversion?**
+- **What is an undefined value in JavaScript?**
+- **What are the two basic groups of data types in JavaScript?**
+- **What are ARRAYs?**
+- **What is a linked list? What is the primary advantage of a linked list?**
+- **What is a stack?**
+- **What is FIFO?**
 
 ## REST positions
 - **Could you explain the REST architecture?**
