@@ -1,6 +1,6 @@
 # Node
 
-This document contains questions for **Node.js** developers. They are organized by difficulty. As an interviewer, you are supposed to choose and ask some questions according to the candidate's experience.
+This document contains questions for **Node.js** developers.
 
 ## Basic
 
