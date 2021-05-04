@@ -4,20 +4,20 @@ This document contains questions for **Node.js** developers. They are organized 
 
 ## Basic
 
-- **How do ES6 modules work?**
-- **How would you read and write a file?**
-- **What is Express middleware?**
-- **What is NPM Link and when would you use it?**
-- **NPM or Yarn?**
-- **Favorite build environment and why? (Gulp, Webpack, etc....)**
-- **Are Node.js modules singletons or instantiated as needed?**
-- **When would you use server-side rendering?**
-
-## Advanced
-
+- **What is the difference between Asynchronous and Non-blocking?
+- **What is the difference between unit tests, integration tests and end-to-end tests?**
+- **What is Node.js and how it works?**
+- **What are the advantages of using promises instead of callbacks?**
+- **Explain the concept of middleware in Node.js?**
+- **What is the goal of a lint, and would you recommend using it?**
 - **What is the EventEmitter?**
 - **What is REPL and when to use it?**
 - **Why is Node.js single-threaded and what is the Event Loop?**
-- **Why doesn't Node.js support ES6 Import statements?**
 - **At what point would you spawn another process in Node?**
-- **Name a time when you ever had to monkey patch a library.**
+
+## REST positions
+- **Could you explain the REST architecture?**
+
+## GraphQL positions
+- **Are you able to describe the benefits of GraphQL?**
+- **Which benefits does a GraphQL client bring to a project?**
