@@ -4,7 +4,7 @@ This document contains questions for **Node.js** developers. They are organized 
 
 ## Basic
 
-- **What is the difference between Asynchronous and Non-blocking?
+- **What is the difference between Asynchronous and Non-blocking?**
 - **What is the difference between unit tests, integration tests and end-to-end tests?**
 - **What is Node.js and how it works?**
 - **What are the advantages of using promises instead of callbacks?**
