@@ -1,7 +1,12 @@
-# General Back-End questions
+# Convox customer architect
 
 The following questions can be asked to candidates of the Convox Customer Suport Architect position
 
+ - What was the most complex system you've been responsible for? What was your biggest challenge?
+ - What is kubernetes and what is it's relationship with Docker?
+ - Can you use kubernetes without docker?
+ - Which AWS tools do you have experience with?
+ - How is your experience with Terraform/Cloudformation?
  - What is a CDN? When might you use one?
  - Describe the difference between stateless and stateful firewalls
  - What is a container?
