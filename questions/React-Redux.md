@@ -7,7 +7,7 @@ This document contains questions for **React** developers.
 - **What is the difference between a class component and a functional component?**
 - **What is a High Order Component?**
 - **What is the difference between state and props?**
-- **What are lifecycle methods and what are they used for?**
+- **What are lifecycle methods in a class component and what are they used for?**
 - **What are CSS Modules?**
 - **What are React Hooks and what problem do they solve?**
 - **What is React Suspense?**
