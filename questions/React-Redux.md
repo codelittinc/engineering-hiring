@@ -4,20 +4,16 @@ This document contains questions for **React** developers. They are organized by
 
 ## Basic
 
-- **How would you scaffold a new React project?**
 - **What is the difference between a class component and a functional component?**
 - **What is a High Order Component?**
 - **What is the difference between state and props?**
-- **What are lifecycle methods what are they used for?**
-- **What is Redux and when is it needed?**
-- **When would you use `.bind(this)` in a class component?**
-- **In a React-Redux app, where is the right place to add logic?**
+- **What are lifecycle methods and what are they used for?**
+- **WHen would you use a state management library like Redux over the Context API??**
 - **What are CSS Modules?**
-
-## Advanced
-
 - **What are React Hooks and what problem do they solve?**
-- **What is a PureComponent?**
 - **What is React Suspense?**
-- **Does Redux work in Node.js?**
-- **What is a Redux middleware and when would you use it?**
+- **Could you explain the REST architecture?**
+- **What is the difference between Real DOM and Virtual DOM?**
+- **What is "key" prop and what is the benefit of using it in arrays of elements?**
+- **What are fragments?**
+- **Differences between declaring variables using var, let and const.**
