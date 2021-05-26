@@ -1,45 +1,37 @@
-1. What are your favorite tools for managing configuration / in‐
-frastructure deployment?
-2. Tell me about your experience setting up Kubernetes
-3. Tell me about your experience with Terraform/Cloudformation
-4. How can you achieve a zero downtime deployment? (blue/green,
+# Technical interview script atempt
+
+## Main terraform tools
+ - 1. What are your favorite tools for managing configuration / infrastructure deployment?
+ - 2. Tell me about your experience setting up Kubernetes
+ - 3. Can you use kubernetes without docker?
+ - 4. Tell me about your experience with Terraform/Cloudformation
+ - 5. How can you achieve a zero downtime deployment? (blue/green,
 canary, rollbacks, etc)
-5. What is service discovery?
-6. What is the difference between Continuous Integration and Con‐
-tinuous Deployment?
-7. What is a DDOS? How can you protect a network from a DDOS?
-8. What compliance programs are you familiar with?
-9. What is A/B testing, and how would you implement it?
-10. How can you scale a relational database?
-
-
+## Processes and concepts
+ - 6. What compliance programs are you familiar with?
+ - 7. What is A/B testing, and how would you implement it?
+ - 8. What is a CDN? When might you use one?
+ - 9. What is the difference between Continuous Integration and Continuous Deployment?
+ - 10. What is a DDOS? How can you protect a network from a DDOS?
+ - 
+## Databases
+ - 11. How can you scale a relational database?
+ - 12. What is the difference between noSQL and Relational databases? Design decision to use one over the other?
 
 ----
 
-# Convox customer architect
-
-The following questions can be asked to candidates of the Convox Customer Suport Architect position
+# Possible questions
 
  - What was the most complex system you've been responsible for? What was your biggest challenge?
  - What is kubernetes and what is it's relationship with Docker?
- - Can you use kubernetes without docker?
  - Which AWS tools do you have experience with?
  - How is your experience with Terraform/Cloudformation?
- - What is a CDN? When might you use one?
  - Describe the difference between stateless and stateful firewalls
  - What is a container?
  - What is the difference between a container and a VM? 
  - What are some strategies for managing application state?
  - What is serverless computing?
  - What are some benefits of containerization?
- - What is database locking? What operations would require a data‐
-base lock?
- - What is the difference between noSQL and Relational databases?
-Design decision to use one over the other?
- - How can you scale a relational database?
- - How can you achieve a zero downtime deployment? (blue/green,
-canary, rollbacks, etc)
- - What is the difference between Continuous Integration and Con‐
-tinuous Deployment?
+ - What is database locking? What operations would require a database lock?
  - What steps would you take to modernize a 3-tier web
 application?
