@@ -12,11 +12,14 @@ canary, rollbacks, etc)
  - 7. What is A/B testing, and how would you implement it?
  - 8. What is a CDN? When might you use one?
  - 9. What is the difference between Continuous Integration and Continuous Deployment?
+
+## Security
  - 10. What is a DDOS? How can you protect a network from a DDOS?
- - 
+ - 11. What is the difference between statefull and stateless firewalls?
+
 ## Databases
- - 11. How can you scale a relational database?
- - 12. What is the difference between noSQL and Relational databases? Design decision to use one over the other?
+ - 12. How can you scale a relational database?
+ - 13. What is the difference between noSQL and Relational databases? Design decision to use one over the other?
 
 ----
 
