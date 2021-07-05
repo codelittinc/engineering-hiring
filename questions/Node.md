@@ -4,7 +4,6 @@ This document contains questions for **Node.js** developers. When interviewing p
 
 ## Basic
 
-- **What is the difference between Asynchronous and Non-blocking?**
 - **What is the difference between unit tests, integration tests and end-to-end tests?**
 - **What are the advantages of using promises instead of callbacks?**
 - **Explain the concept of middleware in Node.js?**
