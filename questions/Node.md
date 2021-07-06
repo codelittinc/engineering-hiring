@@ -9,8 +9,6 @@ This document contains questions for **Node.js** developers. When interviewing p
 - **Explain the concept of middleware in Node.js?**
 - **What is the goal of a lint, and would you recommend using it?**
 - **What is === operator? what is the Difference between "==" and "==="?**
-- **Does JavaScript support automatic type conversion?**
-- **What is an undefined value in JavaScript?**
 
 ## REST positions
 - **Could you explain the REST architecture?**
