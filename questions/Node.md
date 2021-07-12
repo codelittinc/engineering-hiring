@@ -10,6 +10,14 @@ This document contains questions for **Node.js** developers. When interviewing p
 - **What is the goal of a lint, and would you recommend using it?**
 - **What is === operator? what is the Difference between "==" and "==="?**
 
+## Devops
+
+- **What is Docker and why would you use it on your project?**
+
+## Database
+
+- **What is the difference between SQL and no SQL databases? How do you choose between them for a project?**
+
 ## REST positions
 - **Could you explain the REST architecture?**
 
