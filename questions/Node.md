@@ -7,8 +7,11 @@ This document contains questions for **Node.js** developers. When interviewing p
 - **What is the difference between unit tests, integration tests and end-to-end tests?**
 - **What are the advantages of using promises instead of callbacks?**
 - **Explain the concept of middleware in Node.js?**
-- **What is the goal of a lint, and would you recommend using it?**
 - **What is === operator? what is the Difference between "==" and "==="?**
+
+## Code quality
+- **What is quality for you? (there are no wrong answers)**
+- **What is the goal of a lint, and would you recommend using it?**
 
 ## Devops
 
