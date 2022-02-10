@@ -28,3 +28,13 @@ This document contains questions for C# developers. They are organized by diffic
 - **What is Reflection and when would you use it?**
 - **What is the ´dynamic´ keyword?**
 - **What is a Delegate?**
+
+
+## JLL Stack
+
+The following questions are specific to the JLL Stack:
+
+- **How would you implement an event based or a notifications system? Could you give an example of a Project where you've done something similar? What Technology have you used? (Kafka, RabbitMQ, Event Hubs, Service Bus, etc)**
+- **Why would you choose a NoSQL Database instead of a relational one? Could you describe a few benefits of NoSQL?**
+- **What is an Azure Function? Why would you create one?**
+- **What is GraphQL? Why would you choose GraphQL as opposed to REST?**
