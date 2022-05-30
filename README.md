@@ -163,3 +163,7 @@ The exercise gave you some insight of what kind of decisions they take, now it i
 ## 4. General considerations
 
 The COO specifically handles this step.
+
+# Contributing
+
+If you have any questions to suggest for any technology. Please add it to the respective technology file [here](https://github.com/codelittinc/engineering-hiring/tree/master/questions). If we don't have a file for the technology, feel free to create a file following this [template](https://github.com/codelittinc/engineering-hiring/tree/master/questions/Template.md)
