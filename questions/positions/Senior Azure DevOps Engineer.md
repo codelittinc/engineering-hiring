@@ -1,6 +1,6 @@
 # Senior Azure DevOps Engineer
 
-[Link](https://jobs.lever.co/codelitt/3b6c18f1-1fb6-4663-9e4a-0350967c11d9)
+[Link to the position](https://jobs.lever.co/codelitt/3b6c18f1-1fb6-4663-9e4a-0350967c11d9)
 
 ## Experience evaluation
 
