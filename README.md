@@ -12,17 +12,6 @@ As an interviewer, you are looking for someone that will work side by side with 
 
 If you have ever worked in a team, you know that when one person makes a bad decision, the entire team suffers. So, based on your requirements you need to assure that the person you are talking to is the one you want to have your back.
 
-# Hiring process
-
-The Engineering Department hiring process is composed of four phases:
-
-1. [Meeting interview](https://github.com/codelittinc/engineering-hiring#1-meeting-interview)
-2. [Exercise](https://github.com/codelittinc/engineering-hiring#2-exercise)
-3. [Knowledge verification interview](https://github.com/codelittinc/engineering-hiring#3-knowledge-verification-interview)
-4. [General considerations](https://github.com/codelittinc/engineering-hiring#4-general-considerations)
-
-Our goal is to have the four steps completed in two weeks, in an ideal scenario.
-
 ## How to prepare yourself for the interview
 
 Before the first interview make sure that:
@@ -104,49 +93,6 @@ Depending on how the candidate answers the questions above, the following are so
 8. Doesn't like receiving feedback.
 9. The last technology they learned was too long ago. This also depends on the technology, but it's mainly to see if the candidate likes to be up to date with the development world, or if it's just something they study passively.
 
-### Action items
-
-Is the candidate a good fit for the next step?
-- **Yes**: go to the next step.
-- **No**: send them an email explaining that we decided not to move forward with their application, but if any position opens we will be reaching out to them.
-
-## 2. Exercise
-
-At this point, you believe that the candidate is someone you would like to work with and now you start gauging their knowledge. The goal of this phase is to see if the candidate:
-
-1. Has enough experience to create a basic application from scratch
-2. Understands the stack and how to work with it
-3. Values good practices and applies them
-
-### Choosing the exercise
-
-Based on the stack of the position you are interviewing for, choose an exercise based on this list and send it to the candidate. If an exercise for the stack is not there, please create one and ask your teammates to review it before sending.
-
-- [React/Redux](https://gitlab.com/codelittinc/vue-vuex-interview-project)
-- [Vue/Vuex](https://gitlab.com/codelittinc/react-redux-interview-project)
-- [Golang](https://gitlab.com/codelittinc/golang-interview-project)
-
-### Sharing the exercise
-
-1. Create a GitLab repository under [our Codelitt account](https://gitlab.com/codelittinc) for the candidate.
-2. Commit the exercise in the README.md of the project
-3. Share with the candidate's email
-
-Usually, we give four days for the person to submit the exercise. Bear in mind that the candidate may already have another job. Explain to them that they have four days to finish it, but if for any reason it is not enough then the candidate should send you an email just to let you know that you should expect a solution by when.
-
-### Action items
-
-If you received the exercise, you need to review it and gather another engineer to consider it as well without sharing your thoughts. After you two have it examined get together and discuss if you want to work with the candidate.
-
-### Red flags
-
-1. The candidate didn't send the exercise and didn't notify you about it
-2. The exercise result doesn't apply basic code quality principles
-3. The exercise doesn't work as expected
-
-## 3. Knowledge verification interview
-
-The exercise gave you some insight of what kind of decisions they take, now it is time to confirm what they may know that is interesting to you. Before you jump into this interview, please grab the stack's specific questions and the generic ones. You will find a list with the ones we have [here](https://github.com/codelittinc/engineering-hiring/tree/master/questions), if you can't find exercises for the stack you need, please talk to your manager.
 
 ### Interview flow example
 
@@ -159,10 +105,6 @@ The exercise gave you some insight of what kind of decisions they take, now it i
 7. Start the stack questions
 8. Ask if he or she has any questions and answer them
 9. End the interview: _we will discuss your application internally and will reach out to you soon._
-
-## 4. General considerations
-
-The COO specifically handles this step.
 
 # Contributing
 
