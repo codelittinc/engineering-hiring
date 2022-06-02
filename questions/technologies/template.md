@@ -1,7 +1,5 @@
 # < Technology Name >
 
-This document contains questions for **< Technology Name >** developers.
-
 ## Basic Questions
 
 * **< Basic question about the technology >**
