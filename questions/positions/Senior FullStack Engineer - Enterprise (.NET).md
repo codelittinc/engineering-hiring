@@ -6,7 +6,7 @@
 
 [.NET](https://github.com/codelittinc/engineering-hiring/blob/master/questions/technologies/dot-net.md)
 
-* **What is an ORM and where would you use it?**
+* **What is an ORM and where would you use it?** *MUST*
     * An ORM library is a completely ordinary library written in your language of choice that encapsulates the code needed to manipulate the data, so you don't use SQL anymore; you interact directly with an object in the same language you're using. We would use one when we are connecting to a database.
 
 * **How is your experience with ASP NET MVC**
