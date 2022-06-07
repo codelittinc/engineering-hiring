@@ -13,7 +13,7 @@
     * The person needs to have experience with ASP NET MVC.
 
 * **Do you have any experience with javascript frameworks???**
-    * Preferably the candidate has experience with JQuery because they use it in the frontend, but Angular, React or VueJS are options.
+    * Preferably the candidate has experience with JQuery because the client uses it in the frontend, but Angular, React or VueJS are options.
 
 * **Do you have experience with NoSQL and Elastic Search?**
     * Preferably the candidate has experience with databases such as Cosmoss, Mongo or any other NoSQL one. Also good if they have experience with elastic search
