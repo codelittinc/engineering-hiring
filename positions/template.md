@@ -8,7 +8,8 @@
 
 - Number of people:
 - Type: Internal/Staff augmentation
-- Description of the project:
+- Hiring steps after the technical interview:
+- Project description:
 
 ## Interview flow
 
@@ -16,7 +17,7 @@
 
 ## Experience evaluation
 
-[Basic questions](https://github.com/codelittinc/engineering-hiring/blob/master/basic%20questions.md)
+[Getting to know the candidate](https://github.com/codelittinc/engineering-hiring/blob/master/getting%20to%20know%20the%20candidate.md)
 
 * **Position specific question**
     * Expected answer

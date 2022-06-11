@@ -1,5 +1,7 @@
 # Engineering Hiring Guidelines
 
+If you are starting to interview now check [this](https://github.com/codelittinc/engineering-hiring/blob/master/first%20interview.md) tutorial
+
 ## Foreword
 
 The goal of any interviewer during a job interview is to answer the following question:
