@@ -8,7 +8,7 @@
 
 - Number of people:
 - Type: Internal/Staff augmentation
-- Description of the project:
+- Project description:
 
 ## Interview flow
 
