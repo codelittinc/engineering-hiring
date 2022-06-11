@@ -17,10 +17,9 @@ Before the interview you need to:
 1. Understand the position you are interviewing candidates for, this is important because it should guide the level of questions and expectations you should have towards the candidate. 
 2. Review the candidate's profile. Check all the resources available, including Linkedin and resume.
 3. Review the position questions for this position. You can find them inside [positions](https://github.com/codelittinc/engineering-hiring/tree/master/positions)
+4. If anything is unclear, feel free to reach out to the hiring team to ask more information about this position.
 
 ### Questions you need to be prepared to answer
-
-Since this is the first interview remember that you are being interviewed as well. The person on the other side wants to know if Codelitt is the place they want to spend the next days of their life.
 
 1. What is Codelitt and what it does?
 Codelitt is a company based in Miami that builds software products for all industries, our main focus is building softwares that will delight our users.
@@ -45,7 +44,7 @@ Review the position file for this question.
     2. Show the candidate you are listening by making head nods or small sounds like 'uhum'
     3. Sometimes the candidate may keep going if you don't redirect him to another question. Interrupt the candidate when necessary to guarantee you can continue with the interview.
     
-## 1. Interview
+## Interview
 
 ### Interview flow example
 
@@ -63,7 +62,7 @@ Review the position file for this question.
 
 ### Interview example
 
-1. _Hi, my name is Kaio, and I'm the CTO here at codelitt at Codelitt. I am responsible for this interview with you today. Thanks for joining today!_
+1. _Hi, my name is Kaio, and I'm the CTO here at codelitt. I am responsible for this interview with you today. Thanks for joining today!_
 2. _Let me explain the plan for this call. I'll start by introducing myself, then we will talk a little bit about Codelitt, we will talk about this position and then get started on 
 discussing software engineering. During this process feel free to interrupt me if you have any questions, remember that you are interviewing us as well._
 3. Here at Codelitt we build products. We work with companies of all sizes, from startups with one people to big corporations with more than 98 thousand employees. What they have in common
@@ -73,24 +72,12 @@ is their lack of ability or capacity to build software products. To help them wi
 6. Do you have any questions?
 7. Let's start with the technical interview now (goes to the technical interview)
 8. Do you have any questions for me?
-9. Now about the next steps. We will discuss your application internally between today and tomorrow, we deciding to move forward ... (next steps for this specific position)
-10. Talk to you soon, bye!
+9. Now about the next steps. We will discuss your application internally between today and tomorrow, we deciding to move forward ... (review the next steps inside the position file)
+10. If later on you realize you have another question, please feel free to reach out to us by email. Talk to you soon, bye!
 
 #### What if a candidate asks me something I don't know?
 
 Often the candidates can throw you offguard by asking a question you don't have an answer for, in cases like that just be honest and tell you don't know _yet_, but that you will get the answer and send to the candidate via email. Also, make sure to get the information and don't forget to send that after the call ends.
-
-### Questions to make
-
-The goal of the interview is not only to learn about the technical skills of a candidate but also to get to know them in a different light.
-
-To do that, you can ask them specific questions. They are open ones, there is just no right answer, but with them, you can have a better idea of how they behave in a team.
-
-1. When did you start programming and why?
-2. What was your biggest challenge and how did you overcome it?
-3. If you had to choose between having a project with only you or working with a group, which one would you prefer?
-4. Could you tell me about a time where you received a bad feedback and how you approached it?
-5. Which technologies do you have experience with and what are your thoughts on working with technologies outside of the one you are applying for?
 
 ### Red flags
 
