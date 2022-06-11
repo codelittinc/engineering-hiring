@@ -8,6 +8,7 @@
 
 - Number of people: around 15
 - Type: Staff augmentation
+- Hiring steps after the technical interview: One extra technical interview directly with the client. The goal is for the client to get to know the candidate and ask some technical questions. After that we'll send the offer
 - Project description: JLL is the owner of a product called [JLL Corrigo](https://www.jllt.com/corrigo). They are building a team of developers across
 the world. They have people from Canada, USD, Ukraine and India. They have a production ready CMMS and are asking for our help to build their team.
 We currently have 2 people in their team and we are hiring more. They use Azure by default. **P.S:** If the candidate asks a technical question around
