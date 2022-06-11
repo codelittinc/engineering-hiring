@@ -10,7 +10,7 @@
 - Type: Staff augmentation
 - Project description: JLL is the owner of a product called [JLL Corrigo](https://www.jllt.com/corrigo). They are building a team of developers across
 the world. They have people from Canada, USD, Ukraine and India. They have a production ready CMMS and are asking for our help to build their team.
-We currently have 2 people in their team and we are hiring more. They use Azure by default. *P.S:* If the candidate asks a technical question around
+We currently have 2 people in their team and we are hiring more. They use Azure by default. **P.S:** If the candidate asks a technical question around
 what their team uses, just ask the candidate to ask the question in the next interview that will happen with their team.
 
 ## Interview flow
