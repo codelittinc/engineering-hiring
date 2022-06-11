@@ -9,7 +9,7 @@
 - Number of people:
 - Type: Internal/Staff augmentation
 - Project description:
-- Hirint steps after the technical interview:
+- Hiring steps after the technical interview:
 
 ## Interview flow
 
