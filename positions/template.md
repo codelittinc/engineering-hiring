@@ -16,7 +16,7 @@
 
 ## Experience evaluation
 
-[Getting to know the candidate]([https://github.com/codelittinc/engineering-hiring/blob/master/basic%20questions.md](https://github.com/codelittinc/engineering-hiring/blob/master/getting%20to%20know%20the%20candidate.md))
+[Getting to know the candidate](https://github.com/codelittinc/engineering-hiring/blob/master/getting%20to%20know%20the%20candidate.md)
 
 * **Position specific question**
     * Expected answer
