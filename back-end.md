@@ -4,12 +4,15 @@ The following questions can be asked to candidates who are applying for either a
 
 ## Basic
 
+- **What is the difference between unit tests, integration tests and end-to-end tests?**
+- **What is the goal of a lint, and would you recommend using it?**
 - **How do you prevent SQL injections when dealing with a relational database?**
 - **What is the difference between POST and PUT methods?**
 - **What is Singleton pattern? When should we use it?**
 - **What are the benefits of using the `Repository` pattern?**
 - **How much business logic should the domain models be handling?**
 - **What parts of the app should be decoupled as much as possible?**
+- **What is the difference between SQL and no SQL databases? How do you choose between them for a project?**
 
 ## Advanced
 

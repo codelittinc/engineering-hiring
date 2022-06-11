@@ -4,6 +4,8 @@ The following questions can be asked to candidates who are applying for either a
 
 ## Basic
 
+- **What is the difference between unit tests, integration tests and end-to-end tests?**
+- **What is the goal of a lint, and would you recommend using it?**
 - **What is a SPA?**
 - **What is Webpack and what are the benefits of using it?**
 - **What is the difference between a container and a presentational component?**

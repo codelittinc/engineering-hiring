@@ -5,6 +5,7 @@ This document contains questions which apply to any technology. You are supposed
 - Are you familiar with **Git**?
 - Are you familiar with the basic bash commands?
 - Are you familiar with **Docker**?
+    * If the answer is YES, could you please explain what's Docker and why would you use it on your project?
 - What is the TDD methodology?
 - What is the Continuous Integration?
 - What is the **MVC** pattern?
@@ -16,7 +17,9 @@ This document contains questions which apply to any technology. You are supposed
 - What steps would you take if you were working on a piece of code that you could not understand?
 - What is the difference inheritance and composition? Which one is more convenient?
 - What design patterns do you know?
-- When was the last time you used a design pattern? 
+- When was the last time you used a design pattern?
+- Could you explain the REST architecture?
+
 
 ## Open question
 
