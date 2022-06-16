@@ -32,15 +32,15 @@ what their team uses, just ask the candidate to ask the question in the next int
     * No right answer. Evaluate the answer from a critical point of view.
 
 * **Do you have experience with logging solutions on Azure???**
-    * < Expected answer >
+    * Any experience is valid.
 
 [Azure Devops](https://github.com/codelittinc/engineering-hiring/blob/master/questions/technologies/azure%20devops.md)
 
 * **What is your experience with CI/CD pipelines???**
-    * < Expected answer >
+    * Experience with CI/CD pipelines is a must.
 
 * **What is the difference between Continuous Integration and Continuous Deployment???**
-    * < Expected answer >
+    * Understanding the difference is a must.
 
 [Kubernetes](https://github.com/codelittinc/engineering-hiring/blob/master/questions/technologies/kubernetes.md)
 
