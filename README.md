@@ -55,5 +55,6 @@ Often the candidates can throw you offguard by asking a question you don't have 
 Depending on how the candidate answers the questions above, the following are some potential concerns to look out for.
 
 1. Started programming too recently, but bear in mind that it is relative with the expectations for the position. You can't have a senior with only two years of experience, but you can have a junior with ten years.
-3. English is not fluent.
-8. Doesn't like receiving feedback.
+2. English is not fluent.
+3. Doesn't like receiving feedback.
+4. The candidate keeps on typing or looks like he is working on something else at the same time
